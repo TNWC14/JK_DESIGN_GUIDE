@@ -26,14 +26,14 @@
 
 ### File formats
 
-The available logo image formats:
-jpg, svg and a collection in the .ai (Adobe Illustrator) file
+The available logo image formats: <br> <b>
+png, svg and a collection in the .ai (Adobe Illustrator) file </b>
 
 ### Grouping
 
-The logo is organized into two seperate groups:
-VERT for vertical ↕
-HOR for horizontal ↔
+The logo is organized into two seperate groups: <b> <br>
+VERT for vertical ↕ <br>
+HOR for horizontal ↔ </b>
 
 ## Font
 
